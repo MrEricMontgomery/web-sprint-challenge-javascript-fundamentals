@@ -16,7 +16,7 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
- 
+ This is due to closure. Which is when a function reaches outside of its scope to access a variable.
 
 
 
