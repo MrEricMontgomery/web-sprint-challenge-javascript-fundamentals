@@ -123,7 +123,7 @@ function multiply(/*Your Code Here */){
 
  // 🦁🦁🦁 Use greeting to accept a first and last name and return "Hello {first-name} {last-name}, nice to meet you!" 🦁🦁🦁
   
-function greeting(/*Your Code Here */){
+function greeting(first, last){
    return /*Your Code Here */
   }
   
