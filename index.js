@@ -16,7 +16,7 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
- This is due to closure. Which is when a function reaches outside of its scope to access a variable.
+//  This is due to closure. Which is when a function reaches outside of its scope to access a variable.
 
 
 
@@ -28,8 +28,10 @@ myFunction();
     
 For example, `summation(4)` should return 10 because 1+2+3+4 is 10. Note, you may use a for loop for this function if you wish */
 
-function summation(/*Your Code Here*/) {
-  /*Your Code Here*/
+const array1 = [1, 2, 3, 4];
+
+function summation(total, num) {
+  return total + Math.round(num);
 
   }
  
